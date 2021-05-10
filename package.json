@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-handson-b7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Satyam Bansal",
+    "email": "satyam@pesto.tech",
+    "url": "https://satyambnsal.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satyambnsal/nodejs-handson-b7"
+  },
+  "dependencies": {
+    "get-stdin": "^8.0.0",
+    "minimist": "^1.2.5",
+    "performance-now": "^2.1.0",
+    "sqlite3": "^5.0.0"
+  }
+}
